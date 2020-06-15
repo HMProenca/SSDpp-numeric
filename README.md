@@ -116,7 +116,7 @@ These algorithm is also inspired in the previous work of:
 
 ## Versioning
 
-A new version revamped version of this software is due very soon!
+A new revamped version of this software is due very soon!
 
 ## Contact the author
 
