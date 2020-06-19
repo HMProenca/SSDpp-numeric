@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3901236.svg)](https://doi.org/10.5281/zenodo.3901236)
+
 # Guide to run SSD++ for numeric targets
 
 This code reproduces the experiments of the 2020 ECML-PKDD paper: "Discovering outstanding subgroup lists for numeric targets using MDL". 
