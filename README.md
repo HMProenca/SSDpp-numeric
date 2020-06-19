@@ -107,7 +107,7 @@ runAllAppendixResults.py
 
 ## References
 
-A complete description of the theory behind this algorithm can be found in:
+A complete description of the theory behind this algorithm can be found in *extended_paper.pdf* 
 
 
 These algorithm is also inspired in the previous work of:
